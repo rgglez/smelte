@@ -1,5 +1,11 @@
 # Smelte
 
+# TODO
+
+Build the missing components so it's in the level of [sveltestrap](https://sveltestrap.js.org/?path=/story/components--get-started). Original code lacks of many components, and it's a PITA to copy and paste verbose tags all around.
+
+===
+
 <a href="https://smeltejs.com/"><img src="./static/logo.svg" alt="Smelte logo" width="192"></a>
 
 [![license](https://img.shields.io/npm/l/smelte.svg)](https://img.shields.io/npm/l/smelte.svg)
